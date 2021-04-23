@@ -2,7 +2,7 @@
 A Bot wich counts your Users N-Word usage
 
 __Usage__
-To get the count of N-Words a specific person has said, use °count <@username>
+To get the count of N-Words a specific person has said, use °count <@username>\n
 To update the stats, wich is a debug feature use °update
 
 __Info__
